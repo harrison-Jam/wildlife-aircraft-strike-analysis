@@ -67,10 +67,13 @@ Shows:
 - Strengthen low-altitude wildlife management.
 - Improve airport perimeter fencing to prevent mammal incursions.
 
+![summary](https://github.com/user-attachments/assets/46887380-2de5-4739-8db6-abb665a0568d)
+
 ---
 
 ## Dataset
 Wildlife strike data sourced from aviation wildlife incident records.
+
 
 ---
 
